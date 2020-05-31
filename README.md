@@ -7,6 +7,14 @@ Currency Calculator
 "Currency Calculator" is java application that uses data downloanded from file "eurofxref-daily.xml". 
 File is taken from "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml". We can choose currency and exchange our ammount.
 
+## Table of contents
+* [General info](#general-info)
+* [Setup](#setup)
+* [Technologies](#technologies)
+* [Screenshots Application](#screenshots-application)
+* [Screenshots Application Test](#screenshots-application-test)
+* [Contact](#contact)
+
 ## Setup
 1. We need to have java 1.8 version
 ![](images/java_version.JPG)
